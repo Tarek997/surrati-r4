@@ -1,0 +1,82 @@
+{
+ "Cormorant Garamond": {
+  "slug": "cormorant-garamond",
+  "files": 10
+ },
+ "Playfair Display": {
+  "slug": "playfair-display",
+  "files": 8
+ },
+ "Marcellus": {
+  "slug": "marcellus",
+  "files": 2
+ },
+ "Bodoni Moda": {
+  "slug": "bodoni-moda",
+  "files": 8
+ },
+ "Cinzel": {
+  "slug": "cinzel",
+  "files": 2
+ },
+ "Italiana": {
+  "slug": "italiana",
+  "files": 1
+ },
+ "Jost": {
+  "slug": "jost",
+  "files": 6
+ },
+ "Fraunces": {
+  "slug": "fraunces",
+  "files": 6
+ },
+ "EB Garamond": {
+  "slug": "eb-garamond",
+  "files": 14
+ },
+ "Outfit": {
+  "slug": "outfit",
+  "files": 2
+ },
+ "Inter": {
+  "slug": "inter",
+  "files": 7
+ },
+ "Amiri": {
+  "slug": "amiri",
+  "files": 9
+ },
+ "Noto Kufi Arabic": {
+  "slug": "noto-kufi-arabic",
+  "files": 5
+ },
+ "Noto Naskh Arabic": {
+  "slug": "noto-naskh-arabic",
+  "files": 5
+ },
+ "Tajawal": {
+  "slug": "tajawal",
+  "files": 8
+ },
+ "Almarai": {
+  "slug": "almarai",
+  "files": 6
+ },
+ "Reem Kufi": {
+  "slug": "reem-kufi",
+  "files": 4
+ },
+ "Cairo": {
+  "slug": "cairo",
+  "files": 3
+ },
+ "Marhey": {
+  "slug": "marhey",
+  "files": 3
+ },
+ "Lateef": {
+  "slug": "lateef",
+  "files": 6
+ }
+}
