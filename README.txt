@@ -4,7 +4,7 @@ Open index.html in any browser. Everything is inside this folder:
 no internet, no server, no install.
 
   index.html   the six options, side by side
-  a/           Current     Bodoni Moda · EB Garamond · Noto Naskh
+  a/           Final       EN Cinzel/Cormorant Garamond · AR Italiana/Tenor Sans/Reem Kufi · MS Fraunces/Spectral
   t1/          Roman       Cinzel · Cormorant Garamond · Amiri
   t2/          Couture     Italiana · Tenor Sans · Reem Kufi / Almarai
   t3/          Modernist   Jost · Manrope · Tajawal
